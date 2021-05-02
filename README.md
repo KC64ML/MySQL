@@ -97,12 +97,12 @@
 
 * Model 생성
 
-  * !![Model 생성](https://user-images.githubusercontent.com/72541544/116813450-dc05b780-ab8e-11eb-8aa3-cf127198238d.png)
+  * ![Model 생성](https://user-images.githubusercontent.com/72541544/116813450-dc05b780-ab8e-11eb-8aa3-cf127198238d.png)
 
 * ERD(Entity Relationship Diagram)
 
   * 개체 속성과 개체 간 관계를 도표로 표현한 것
-  * ![EER Diagram](https://user-images.githubusercontent.com/72541544/116813447-dad48a80-ab8e-11eb-80b5-6b3bd73023ca.png)
+  * ![EER Diagram](https://user-images.githubusercontent.com/72541544/116813706-10c63e80-ab90-11eb-9d5b-e0265ddd342f.png)
     * ![ERD 관계 표현법](D:\Computer_Science\DataBase\MySQL\write\Day 1\사진2\ERD 관계 표현법.png)
     * 일 대 일 테이블(식별 관계)
     * ![일대일](https://user-images.githubusercontent.com/72541544/116813464-e031d500-ab8e-11eb-89d8-7f0333b68e72.png)
