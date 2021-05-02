@@ -103,7 +103,7 @@
 
   * 개체 속성과 개체 간 관계를 도표로 표현한 것
   * ![EER Diagram](https://user-images.githubusercontent.com/72541544/116813706-10c63e80-ab90-11eb-9d5b-e0265ddd342f.png)
-    * ![ERD 관계 표현법](D:\Computer_Science\DataBase\MySQL\write\Day 1\사진2\ERD 관계 표현법.png)
+    * ![ERD 관계 표현법](https://user-images.githubusercontent.com/72541544/116817691-994dda80-aba2-11eb-8ad7-3695eb2a6a37.png)
     * 일 대 일 테이블(식별 관계)
     * ![일대일](https://user-images.githubusercontent.com/72541544/116813464-e031d500-ab8e-11eb-89d8-7f0333b68e72.png)
       * 상세 주소 테이블은 person_id를 기본키로 사용, person_id를 통해 person 테이블을 참조하고 있다.
