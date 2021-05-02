@@ -1,0 +1,15 @@
+primary key
+- user id
+- 주문번호
+
+
+회원가입
+
+idx - Primary key, NN, UQ, AI
+id - NN
+password - NN
+appname - NN
+age
+disability_rating
+
+로그인
