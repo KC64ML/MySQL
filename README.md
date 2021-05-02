@@ -178,7 +178,9 @@
 
 
 
+참고한 사이트 : https://velog.io/@cmong/MongoDB-vs-MySQL-vs-SQLite3-%EB%AD%98%EC%93%B0%EC%A7%80
 
+참고한 사이트 : https://gyoogle.dev/blog/computer-science/data-base/SQL%20&%20NOSQL.html
 
 참고 자료 : https://olidang.tistory.com/95
 
