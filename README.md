@@ -134,7 +134,19 @@
   * 연결 방법이 기억 안난다면 https://olidang.tistory.com/95 참조
   * ![mysql 실행결과](https://user-images.githubusercontent.com/72541544/116813457-de681180-ab8e-11eb-851a-b59f3626ed92.png)
 
-  
+* ![사진](https://user-images.githubusercontent.com/72541544/117102172-b658f800-adb2-11eb-97ab-b47a8872dd2a.png)
+* PK - Primary key, 중복이나 빈값(NULL)이 들어올 수 없다.
+* NN - Not Null(빈 값) 못들어온다.
+* UQ - Unique, 중복 값을 넣을 수 없다.
+* B - 데이터를 이진 문자열로 저장한다.
+* UN - Unsigned data type (범위 삭제)
+  * INT, DOUBLE 등의 경우 UN을 사용해 주면 -값 +값 이던 범위가 -값은 없어지고 +값만 2배로 늘어난다.
+* ZF - Zero Filled 컬럼 크기보다 작은 값을 넣었을 경우 0으로 채운뒤 삽입시킨다.
+* AI - Insert 시마다 값 1씩 늘어난다.
+* G - 다른 열을 기반으로 한 수식으로 생성된 값
+* Default/Expression - 기본 값, 기본 값에 수식 설정
+
+
 
 
 
